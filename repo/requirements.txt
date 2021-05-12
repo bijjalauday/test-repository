@@ -1,0 +1,4 @@
+Flask
+Flask-RestFul
+Flask-JWT
+uwsgi
